@@ -1,0 +1,14 @@
+this application is spring boot app by using Mongo db and My sql.this app is basically an example of a CRUD app.
+dependencies that i have used in this app is Spring web, Spring Data Jpa, My Sql driver, Spring Data MongoDb and Spring boot dev tools
+In this application java file contains controllerpackage, document package, entity package, model package, repository package and service package 
+controller package will manage all the happenings taking place in the application.
+entity package contains the student properties for example name, id etc.
+document package is used to master the responses returned from the jpa class.
+student repository contains repo of every single student present in our database
+services package will maintain the work like transactions, maintainance etc.  
+
+******************************************how to use this app*******************************************************************************************************************************************************************
+for this sts/intellij must be downloaded in your system.
+open this app in intellij/sts.
+build and run .
+it will run on localhost:8080.
